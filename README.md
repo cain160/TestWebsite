@@ -1,3 +1,3 @@
-# http://cain160.github.io.TestWebsite
+# http://TestWebsite
 
 Testing GitHub's web hosting service
